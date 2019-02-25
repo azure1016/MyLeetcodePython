@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54903d6d-b146-4989-acab-2923e500ee99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc200.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc200.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc18.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc18.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +12,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc200.coverage" NAME="lc200 Coverage Results" MODIFIED="1550931048572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc200.coverage" NAME="lc200 Coverage Results" MODIFIED="1551060347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc287.coverage" NAME="lc287 Coverage Results" MODIFIED="1549033032780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1550365061462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc18.coverage" NAME="lc18 Coverage Results" MODIFIED="1550461867305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc18.coverage" NAME="lc18 Coverage Results" MODIFIED="1551060573157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$tste.coverage" NAME="tste Coverage Results" MODIFIED="1550365277229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc56.coverage" NAME="lc56 Coverage Results" MODIFIED="1549127602315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1550365591331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -34,22 +34,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3328" />
+          <entry key="py" value="3353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3328" />
+          <entry key="Python" value="3353" />
         </counts>
       </usages-collector>
     </session>
@@ -77,11 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lc200.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="39" column="72" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="39" selection-end-column="72" />
+            <state relative-caret-position="528">
+              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lc18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -105,8 +114,8 @@
         <option value="$PROJECT_DIR$/lc56.py" />
         <option value="$PROJECT_DIR$/tste.py" />
         <option value="$PROJECT_DIR$/assignment1.py" />
-        <option value="$PROJECT_DIR$/lc18.py" />
         <option value="$PROJECT_DIR$/lc200.py" />
+        <option value="$PROJECT_DIR$/lc18.py" />
       </list>
     </option>
   </component>
@@ -176,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lc200">
+  <component name="RunManager" selected="Python.lc18">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,8 +328,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lc200" />
         <item itemvalue="Python.lc18" />
+        <item itemvalue="Python.lc200" />
         <item itemvalue="Python.assignment1" />
         <item itemvalue="Python.tste" />
         <item itemvalue="Python.lc56" />
@@ -378,11 +387,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lc18.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lc56.py</url>
           <line>19</line>
           <option name="timeStamp" value="4" />
@@ -406,13 +410,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment1.py" />
-    <entry file="file://$PROJECT_DIR$/lc18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lc287.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -429,8 +426,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lc200.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="39" column="72" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="39" selection-end-column="72" />
+        <state relative-caret-position="528">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>

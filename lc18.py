@@ -16,8 +16,8 @@ class Solution(object):
                     _sum = num[p] + num[i] + num[j] + num[k]
                     if _sum == target:
                         tup = (num[p], num[i], num[j], num[k])
-                        if not self.isDup(res, tup):
-                            res.append(tup)
+                        #if not self.isDup(res, tup):
+                        res.append(tup)
                         j += 1
                         continue
                     elif _sum > target:
@@ -31,7 +31,8 @@ class Solution(object):
             i = p + 1
             j = i + 1
             k = len(num) - 1
-        return res
+        return set(res)
+        #return res
     def isDup(self, res, tup):
         if len(res) == 0:
             return False

@@ -1,0 +1,14 @@
+public class Solution{
+    public class Cell{
+        int row;
+        int col;
+        int height;
+
+        public Cell(int r, int c, int h){
+            row = r;
+            col = c;
+            height = h;
+        }
+    }
+
+}

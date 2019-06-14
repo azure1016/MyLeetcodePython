@@ -1,17 +1,6 @@
-def sort_k_messed_array_original(arr, k):
-  if not arr: return arr
-  i = 0
-  res = []
-  step = 2 * k #k = 2, step = 5
-  while i + step < len(arr): #[0,1) i = 0
-    arr[i: i+step] = sorted(arr[i : i + step]) # arr[0:5] = arr[0, 1,2,3,4]
-    i = i + k
-  if i < len(arr):
-    arr[i:] = sorted(arr[i:])
-  return arr
 
 
-#solve the problem using max heap
+#implementation of max heap with array
 def insert(arr, val):
   size = len(arr)
   arr.append(val)

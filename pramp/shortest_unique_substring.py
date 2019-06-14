@@ -76,4 +76,3 @@ def minWindow(t, s):
 result = minWindow("ABC", "KADOBECODEBANCDDDEI")
 print(result)
 
-#use max heap to solve the question

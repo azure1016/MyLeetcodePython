@@ -2,19 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54903d6d-b146-4989-acab-2923e500ee99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lc11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pramp/matrix_spiral_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pramp/merge_packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pramp/sort_k_messed_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyLeetcodePython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyLeetcodePython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide_spoils_fairly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_html2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_to_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc1001_illuminate_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc160 intersection between linked lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc206.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc208implement_trie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc212word_search2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc222_count_complete_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc25 reverse k-grouped linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc315.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc328_odd_even_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc33_search_in_rotated_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc37_sudoku_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc393.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc438.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc51_n_queens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc69_sqrt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc70.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc724find_pivot_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc79word_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc82 duplicates in sorted list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc877 Stone Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc904_Fruit_into_baskets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc92_reverse_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc973_K_closest_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc975odd_even_jump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_pipe_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pramp/absolute_value_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pramp/time_planner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realationship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unfinished_lc300.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pramp/maxheap_array_inplace.py" beforeDir="false" afterPath="$PROJECT_DIR$/pramp/maxheap_array_inplace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pramp/shortest_unique_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/pramp/shortest_unique_substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaImpl/unionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/unionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc226.py" beforeDir="false" afterPath="$PROJECT_DIR$/unfinished_lc226.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc94.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc94.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,71 +65,126 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc15.coverage" NAME="lc15 Coverage Results" MODIFIED="1560391368712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc200.coverage" NAME="lc200 Coverage Results" MODIFIED="1551060347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc287.coverage" NAME="lc287 Coverage Results" MODIFIED="1549033032780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc2.coverage" NAME="lc2 Coverage Results" MODIFIED="1560398382938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$two_sum_O_of_n.coverage" NAME="two_sum_O_of_n Coverage Results" MODIFIED="1558827903543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc18.coverage" NAME="lc18 Coverage Results" MODIFIED="1551060573157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc31.coverage" NAME="lc31 Coverage Results" MODIFIED="1560907568668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc2.coverage" NAME="lc2 Coverage Results" MODIFIED="1566259677035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc208implement_trie.coverage" NAME="lc208implement_trie Coverage Results" MODIFIED="1568778959281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc315.coverage" NAME="lc315 Coverage Results" MODIFIED="1560720841026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc10.coverage" NAME="lc10 Coverage Results" MODIFIED="1564859377620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$max_distance.coverage" NAME="max_distance Coverage Results" MODIFIED="1568817677738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc300.coverage" NAME="lc300 Coverage Results" MODIFIED="1562205274242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$sort_k_messed_array.coverage" NAME="sort_k_messed_array Coverage Results" MODIFIED="1558668518937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc46.coverage" NAME="lc46 Coverage Results" MODIFIED="1561826642617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$tste.coverage" NAME="tste Coverage Results" MODIFIED="1550365277229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc40.coverage" NAME="lc40 Coverage Results" MODIFIED="1561949379142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$absolute_value_sort.coverage" NAME="absolute_value_sort Coverage Results" MODIFIED="1566764985689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc328_odd_even_linked_list.coverage" NAME="lc328_odd_even_linked_list Coverage Results" MODIFIED="1565732523669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc438.coverage" NAME="lc438 Coverage Results" MODIFIED="1563828000807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc15.coverage" NAME="lc15 Coverage Results" MODIFIED="1560391368712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$time_planner.coverage" NAME="time_planner Coverage Results" MODIFIED="1566311145452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc973_K_closest_points.coverage" NAME="lc973_K_closest_points Coverage Results" MODIFIED="1568598613571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc904_Fruit_into_baskets.coverage" NAME="lc904_Fruit_into_baskets Coverage Results" MODIFIED="1568692131209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$a1_v1.coverage" NAME="a1_v1 Coverage Results" MODIFIED="1559257249371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/msci641/text_analysis/assigment1" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1550365591331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc112.coverage" NAME="lc112 Coverage Results" MODIFIED="1557289903815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$a1_1111.coverage" NAME="a1_1111 Coverage Results" MODIFIED="1560389088644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$hw4_unfinish.coverage" NAME="hw4_unfinish Coverage Results" MODIFIED="1552328039072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/ece657a/codes/dataAnalysisEx" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc763.coverage" NAME="lc763 Coverage Results" MODIFIED="1556505524151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc94.coverage" NAME="lc94 Coverage Results" MODIFIED="1557287966159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$sort_k_messed_array__1_.coverage" NAME="sort_k_messed_array (1) Coverage Results" MODIFIED="1558827825180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$sort_k_messed_array.coverage" NAME="sort_k_messed_array Coverage Results" MODIFIED="1558668518937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc11.coverage" NAME="lc11 Coverage Results" MODIFIED="1560445517829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$minimum_pipe_cost.coverage" NAME="minimum_pipe_cost Coverage Results" MODIFIED="1568737687261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1550365061462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$json_html2.coverage" NAME="json_html2 Coverage Results" MODIFIED="1568954922938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc21.coverage" NAME="lc21 Coverage Results" MODIFIED="1564153697791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$matrix_spiral_copy.coverage" NAME="matrix_spiral_copy Coverage Results" MODIFIED="1558817281929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
-    <SUITE FILE_PATH="coverage/MyLeetcodePython$tste.coverage" NAME="tste Coverage Results" MODIFIED="1550365277229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc56.coverage" NAME="lc56 Coverage Results" MODIFIED="1549127602315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc5.coverage" NAME="lc5 Coverage Results" MODIFIED="1562987236469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$at_1816.coverage" NAME="at_1816 Coverage Results" MODIFIED="1560343668942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/msci641/text_analysis" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc222_count_complete_tree.coverage" NAME="lc222_count_complete_tree Coverage Results" MODIFIED="1566705667383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc975odd_even_jump.coverage" NAME="lc975odd_even_jump Coverage Results" MODIFIED="1568603156895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc200.coverage" NAME="lc200 Coverage Results" MODIFIED="1551060347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc307.coverage" NAME="lc307 Coverage Results" MODIFIED="1560818629142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$divide_spoils_fairly.coverage" NAME="divide_spoils_fairly Coverage Results" MODIFIED="1568400153103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$Unittests_in_json_html2_py.coverage" NAME="Unittests in json_html2.py Coverage Results" MODIFIED="1568953440343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc25_reverse_k_grouped_linkedlist.coverage" NAME="lc25 reverse k-grouped linkedlist Coverage Results" MODIFIED="1565727424033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc7.coverage" NAME="lc7 Coverage Results" MODIFIED="1564112914765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc4.coverage" NAME="lc4 Coverage Results" MODIFIED="1563588453887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc11.coverage" NAME="lc11 Coverage Results" MODIFIED="1560445517829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc51_n_queens.coverage" NAME="lc51_n_queens Coverage Results" MODIFIED="1568138471305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc1001_illuminate_cells.coverage" NAME="lc1001_illuminate_cells Coverage Results" MODIFIED="1568140708517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc724find_pivot_index.coverage" NAME="lc724find_pivot_index Coverage Results" MODIFIED="1567742567540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc33_search_in_rotated_array.coverage" NAME="lc33_search_in_rotated_array Coverage Results" MODIFIED="1566581201346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc212word_search2.coverage" NAME="lc212word_search2 Coverage Results" MODIFIED="1568849100139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc37_sudoku_solver.coverage" NAME="lc37_sudoku_solver Coverage Results" MODIFIED="1568220306970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$class_Combination.coverage" NAME="class Combination Coverage Results" MODIFIED="1568832611534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc69_sqrt.coverage" NAME="lc69_sqrt Coverage Results" MODIFIED="1566444562060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc144.coverage" NAME="lc144 Coverage Results" MODIFIED="1563588655886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$two_sum_O_of_n.coverage" NAME="two_sum_O_of_n Coverage Results" MODIFIED="1558827903543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc79word_search.coverage" NAME="lc79word_search Coverage Results" MODIFIED="1568417615711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc18.coverage" NAME="lc18 Coverage Results" MODIFIED="1551060573157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc76.coverage" NAME="lc76 Coverage Results" MODIFIED="1563806187337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc3.coverage" NAME="lc3 Coverage Results" MODIFIED="1563408697784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc94.coverage" NAME="lc94 Coverage Results" MODIFIED="1557287966159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc877_Stone_Game.coverage" NAME="lc877 Stone Game Coverage Results" MODIFIED="1565236007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc149.coverage" NAME="lc149 Coverage Results" MODIFIED="1560539194019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc47.coverage" NAME="lc47 Coverage Results" MODIFIED="1561828394149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$shortest_word_edit_path.coverage" NAME="shortest_word_edit_path Coverage Results" MODIFIED="1558382154344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc82_duplicates_in_sorted_list.coverage" NAME="lc82 duplicates in sorted list Coverage Results" MODIFIED="1565379537804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1075613623">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="md" value="2" />
           <entry key="neg" value="1" />
-          <entry key="py" value="52" />
+          <entry key="py" value="160" />
           <entry key="test_list" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="52" />
+          <entry key="Python" value="160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="56" />
-          <entry key="py" value="11849" />
+          <entry key="dummy" value="82" />
+          <entry key="json_html2" value="1" />
+          <entry key="md" value="1274" />
+          <entry key="py" value="37915" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="56" />
-          <entry key="Python" value="11849" />
+          <entry key="Markdown" value="1274" />
+          <entry key="PLAIN_TEXT" value="82" />
+          <entry key="Python" value="37916" />
         </counts>
       </usages-collector>
     </session>
@@ -98,50 +195,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lc287.py">
+        <entry file="file://$PROJECT_DIR$/json_to_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lc15.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lc2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="256">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding>
-                <marker date="1560398374000" expanded="true" signature="779:784" ph="..." />
-                <marker date="1560398374000" expanded="true" signature="942:1029" ph="..." />
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1568950199000" expanded="true" signature="1399:1479" ph="..." />
+                <marker date="1568950199000" expanded="true" signature="1506:2499" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lc11.py">
+        <entry file="file://$PROJECT_DIR$/json_html2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state relative-caret-position="816">
+              <caret line="51" column="14" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="14" />
+              <folding>
+                <marker date="1568986080000" expanded="true" signature="0:1" ph="..." />
+                <marker date="1568986080000" expanded="true" signature="19:24" ph="..." />
+                <marker date="1568986080000" expanded="true" signature="149:154" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lc169.py">
+        <entry file="file://$PROJECT_DIR$/realationship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-205">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="339">
+              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+              <folding>
+                <marker date="1569016377000" expanded="true" signature="645:650" ph="..." />
+                <marker date="1569016377000" expanded="true" signature="1332:1626" ph="..." />
+                <marker date="1569016377000" expanded="true" signature="1666:1893" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class Combination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,31 +263,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lc287.py" />
-        <option value="$PROJECT_DIR$/lc56.py" />
-        <option value="$PROJECT_DIR$/tste.py" />
-        <option value="$PROJECT_DIR$/assignment1.py" />
-        <option value="$PROJECT_DIR$/lc200.py" />
-        <option value="$PROJECT_DIR$/lc18.py" />
-        <option value="$USER_HOME$/Documents/ece657a/codes/dataAnalysisEx/hw4_unfinish.py" />
-        <option value="$PROJECT_DIR$/lc763.py" />
+        <option value="$PROJECT_DIR$/lc307.py" />
+        <option value="$PROJECT_DIR$/lc31.py" />
+        <option value="$PROJECT_DIR$/lc206.py" />
+        <option value="$PROJECT_DIR$/lc46.py" />
+        <option value="$PROJECT_DIR$/lc47.py" />
+        <option value="$PROJECT_DIR$/lc40.py" />
+        <option value="$PROJECT_DIR$/lc300.py" />
+        <option value="$PROJECT_DIR$/lc70.md" />
+        <option value="$PROJECT_DIR$/lc393.py" />
+        <option value="$PROJECT_DIR$/lc5.py" />
+        <option value="$PROJECT_DIR$/lc3.py" />
+        <option value="$PROJECT_DIR$/lc4.py" />
+        <option value="$PROJECT_DIR$/lc144.py" />
+        <option value="$PROJECT_DIR$/lc76.py" />
+        <option value="$PROJECT_DIR$/lc438.py" />
+        <option value="$PROJECT_DIR$/lc7.py" />
+        <option value="$PROJECT_DIR$/lc21.py" />
+        <option value="$PROJECT_DIR$/lc10.py" />
+        <option value="$PROJECT_DIR$/lc877 Stone Game.py" />
+        <option value="$PROJECT_DIR$/lc82 duplicates in sorted list.py" />
+        <option value="$PROJECT_DIR$/lc25 reverse k-grouped linkedlist.py" />
         <option value="$PROJECT_DIR$/lc94.py" />
-        <option value="$PROJECT_DIR$/lc563.py" />
-        <option value="$PROJECT_DIR$/lc112.py" />
-        <option value="$PROJECT_DIR$/lc226.py" />
-        <option value="$PROJECT_DIR$/pramp/shortest_word_edit_path.py" />
-        <option value="$PROJECT_DIR$/pramp/shortest_unique_substring.py" />
-        <option value="$PROJECT_DIR$/pramp/maxheap_array_inplace.py" />
-        <option value="$PROJECT_DIR$/pramp/matrix_spiral_copy.py" />
-        <option value="$PROJECT_DIR$/pramp/sort_k_messed_array.py" />
-        <option value="$PROJECT_DIR$/pramp/two_sum_O_of_n.py" />
-        <option value="$USER_HOME$/Documents/msci641/text_analysis/at_1816.py" />
-        <option value="$PROJECT_DIR$/pramp/a1_1111.py" />
-        <option value="$PROJECT_DIR$/lc15.py" />
+        <option value="$PROJECT_DIR$/lc328_odd_even_linked_list.py" />
+        <option value="$PROJECT_DIR$/lc92_reverse_lists.py" />
+        <option value="$PROJECT_DIR$/lc160 intersection between linked lists.py" />
         <option value="$PROJECT_DIR$/lc2.py" />
-        <option value="$PROJECT_DIR$/lc11.py" />
-        <option value="$PROJECT_DIR$/lc167.py" />
-        <option value="$PROJECT_DIR$/lc169.py" />
+        <option value="$PROJECT_DIR$/pramp/time_planner.py" />
+        <option value="$PROJECT_DIR$/lc69_sqrt.py" />
+        <option value="$PROJECT_DIR$/lc33_search_in_rotated_array.py" />
+        <option value="$PROJECT_DIR$/lc.py" />
+        <option value="$PROJECT_DIR$/lc_util.py" />
+        <option value="$PROJECT_DIR$/pramp/absolute_value_sort.py" />
+        <option value="$PROJECT_DIR$/lc222_count_complete_tree.py" />
+        <option value="$PROJECT_DIR$/lc430.py" />
+        <option value="$PROJECT_DIR$/lc724find_pivot_index.py" />
+        <option value="$PROJECT_DIR$/lc51_n_queens.py" />
+        <option value="$PROJECT_DIR$/lc1001_illuminate_cells.py" />
+        <option value="$PROJECT_DIR$/lc37_sudoku_solver.py" />
+        <option value="$PROJECT_DIR$/divide_spoils_fairly.py" />
+        <option value="$PROJECT_DIR$/lc79word_search.py" />
+        <option value="$PROJECT_DIR$/lc973_K_closest_points.py" />
+        <option value="$PROJECT_DIR$/lc975odd_even_jump.py" />
+        <option value="$PROJECT_DIR$/lc904_Fruit_into_baskets.py" />
+        <option value="$PROJECT_DIR$/minimum_pipe_cost.py" />
+        <option value="$PROJECT_DIR$/lc208implement_trie.py" />
+        <option value="$PROJECT_DIR$/max_distance.py" />
+        <option value="$PROJECT_DIR$/class Combination.py" />
+        <option value="$PROJECT_DIR$/lc212word_search2.py" />
+        <option value="$PROJECT_DIR$/json_to_html.py" />
+        <option value="$PROJECT_DIR$/json_html2.py" />
+        <option value="$PROJECT_DIR$/realationship.py" />
       </list>
     </option>
   </component>
@@ -195,10 +323,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="739" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -259,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lc169">
+  <component name="RunManager" selected="Python.realationship">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,17 +453,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class Combination" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class Combination.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,17 +475,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_html2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_html2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,55 +497,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc167" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lc212word_search2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc167.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lc169" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyLeetcodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc169.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyLeetcodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc212word_search2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,24 +563,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="realationship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLeetcodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realationship.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in json_html2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MyLeetcodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/json_html2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.a1_v1" />
       <item itemvalue="Python.msci641" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.matrix_spiral_copy" />
-      <item itemvalue="Python.lc15" />
-      <item itemvalue="Python.lc2" />
-      <item itemvalue="Python.lc11" />
-      <item itemvalue="Python.lc167" />
-      <item itemvalue="Python.lc169" />
+      <item itemvalue="Python.class Combination" />
+      <item itemvalue="Python.lc212word_search2" />
+      <item itemvalue="Python tests.Unittests in json_html2.py" />
+      <item itemvalue="Python.json_html2" />
+      <item itemvalue="Python.realationship" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lc169" />
-        <item itemvalue="Python.lc167" />
-        <item itemvalue="Python.lc11" />
-        <item itemvalue="Python.lc2" />
-        <item itemvalue="Python.lc15" />
+        <item itemvalue="Python.realationship" />
+        <item itemvalue="Python.json_html2" />
+        <item itemvalue="Python tests.Unittests in json_html2.py" />
+        <item itemvalue="Python.lc212word_search2" />
+        <item itemvalue="Python.class Combination" />
       </list>
     </recent_temporary>
   </component>
@@ -499,16 +631,63 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 20m 02s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 20m 43s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 21m 02s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 22m 05s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 22m 51s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_json_html2_py - 2019.09.20 at 00h 23m 55s.xml">
+      <configuration name="Unittests in json_html2.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="739" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49522293" visible="true" weight="0.1767101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49522293" visible="true" weight="0.24267101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5047771" side_tool="true" weight="0.26465797" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24753867" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49226442" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3280255" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.28270042" />
+      <window_info anchor="bottom" id="Mypy" order="13" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32961783" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980457" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="270" height="539" id="Documentation" order="5" side_tool="true" visible="true" weight="0.037459284" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49522293" visible="true" weight="0.3403909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5047771" side_tool="true" weight="0.26465797" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24840765" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4219745" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4936306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -519,13 +698,14 @@
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32911393" />
       <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32643312" />
       <window_info anchor="bottom" id="Mypy" order="13" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32961783" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32980457" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="270" height="539" id="Documentation" order="5" side_tool="true" visible="true" weight="0.08143322" />
-    </layout>
+      <window_info anchor="right" x="0" y="0" width="270" height="539" id="Documentation" order="5" side_tool="true" visible="true" weight="0.037459284" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -577,228 +757,230 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lc2.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lc11.py</url>
           <line>29</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc149.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc31.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc46.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc47.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc40.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unfinished_lc300.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc5.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc144.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc3.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc4.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc76.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc438.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc7.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc21.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc10.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc877 Stone Game.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc82 duplicates in sorted list.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc25 reverse k-grouped linkedlist.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc328_odd_even_linked_list.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc2.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pramp/time_planner.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc69_sqrt.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc33_search_in_rotated_array.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc222_count_complete_tree.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc724find_pivot_index.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc51_n_queens.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc51_n_queens.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc1001_illuminate_cells.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc37_sudoku_solver.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/divide_spoils_fairly.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc973_K_closest_points.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc975odd_even_jump.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc904_Fruit_into_baskets.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/minimum_pipe_cost.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc208implement_trie.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_distance.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_distance.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc212word_search2.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tokenize.py" />
-    <entry file="file://$PROJECT_DIR$/tste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="274" column="21" lean-forward="true" selection-start-line="274" selection-start-column="21" selection-end-line="274" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1.py" />
-    <entry file="file://$PROJECT_DIR$/lc56.py">
+    <entry file="file://$PROJECT_DIR$/lc31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lc200.py">
+    <entry file="file://$PROJECT_DIR$/lc94.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+        <state relative-caret-position="-288">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lc18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="46" column="36" selection-start-line="46" selection-end-line="46" selection-end-column="36" />
-        </state>
+        <state relative-caret-position="-288" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/ece657a/codes/dataAnalysisEx/hw4_unfinish.py">
+    <entry file="file://$PROJECT_DIR$/lc144.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc763.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc94.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc563.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc112.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        <state relative-caret-position="-736">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding>
-            <marker date="1557289903000" expanded="true" signature="153:1147" ph="..." />
+            <marker date="1563589032000" expanded="true" signature="178:690" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc226.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7408">
-          <caret line="464" selection-start-line="464" selection-end-line="464" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/abc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2256">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_abcoll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1616">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/maxheap_array_inplace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding>
-            <marker date="1558669830000" expanded="true" signature="1285:1286" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1247972723/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="527" column="4" selection-start-line="527" selection-start-column="4" selection-end-line="527" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/matrix_spiral_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/shortest_unique_substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-          <folding>
-            <marker date="1558669830000" expanded="true" signature="1794:2333" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/neg" />
-    <entry file="file://$PROJECT_DIR$/pramp/neg.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/msci641/text_analysis/assigment1/a1_v1.py" />
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="510" selection-start-line="510" selection-end-line="510" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/site-packages/pandas/core/indexes/range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="513" selection-start-line="513" selection-end-line="513" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/msci641/text_analysis/at_1816.py" />
-    <entry file="file://$PROJECT_DIR$/pramp/test_list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/sort_k_messed_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding>
-            <marker date="1558824383000" expanded="true" signature="427:432" ph="..." />
-            <marker date="1558824383000" expanded="true" signature="755:1465" ph="..." />
-            <marker date="1558824383000" expanded="true" signature="1486:1723" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/merge_packages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <marker date="1558835960000" expanded="true" signature="784:966" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/site-packages/nltk/corpus/reader/wordlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2992">
-          <caret line="190" selection-start-line="190" selection-end-line="190" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/sre_compile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9008">
-          <caret line="565" selection-start-line="565" selection-end-line="565" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/sre_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pramp/a1_1111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -809,56 +991,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/tokenize.py">
+    <entry file="file://$PROJECT_DIR$/unfinished_lc300.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="451" selection-start-line="451" selection-end-line="451" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/posixpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="592">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding>
-            <marker date="1560398374000" expanded="true" signature="779:784" ph="..." />
-            <marker date="1560398374000" expanded="true" signature="942:1029" ph="..." />
+            <marker date="1562207233000" expanded="true" signature="48:92" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python3.6/site-packages/numpy/core/fromnumeric.py">
+    <entry file="file://$PROJECT_DIR$/unfinished_lc226.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc206.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="1033" selection-start-line="1033" selection-end-line="1033" />
+        <state relative-caret-position="464">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc200.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc169.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -869,17 +1030,304 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lc11.py">
+    <entry file="file://$PROJECT_DIR$/lc149.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state relative-caret-position="112">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lc169.py">
+    <entry file="file://$PROJECT_DIR$/lc145.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="-208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc112.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc328_odd_even_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="25" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc33_search_in_rotated_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc92_reverse_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc160 intersection between linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <marker date="1566260767000" expanded="true" signature="779:784" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pramp/time_planner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc69_sqrt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pramp/absolute_value_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="27" selection-start-line="16" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc222_count_complete_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc724find_pivot_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc51_n_queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc1001_illuminate_cells.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc37_sudoku_solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <marker date="1568221143000" expanded="true" signature="913:918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide_spoils_fairly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+          <folding>
+            <marker date="1568414807000" expanded="true" signature="35:40" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc997.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc997的副本.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lc964.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC964_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc79word_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="24" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc973_K_closest_points.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc975odd_even_jump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1568603156000" expanded="true" signature="15:16" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc430.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc904_Fruit_into_baskets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimum_pipe_cost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <marker date="1568737755000" expanded="true" signature="17:22" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3776">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc208implement_trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1102" selection-start-line="1102" selection-end-line="1102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <marker date="1568817855000" expanded="true" signature="999:1004" ph="..." />
+            <marker date="1568817855000" expanded="true" signature="1422:1427" ph="..." />
+            <marker date="1568817855000" expanded="true" signature="1483:1551" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7664">
+          <caret line="492" selection-start-line="492" selection-end-line="492" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc212word_search2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_to_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1568950199000" expanded="true" signature="1399:1479" ph="..." />
+            <marker date="1568950199000" expanded="true" signature="1506:2499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class Combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_html2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="14" />
+          <folding>
+            <marker date="1568986080000" expanded="true" signature="0:1" ph="..." />
+            <marker date="1568986080000" expanded="true" signature="19:24" ph="..." />
+            <marker date="1568986080000" expanded="true" signature="149:154" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <marker date="1569016377000" expanded="true" signature="645:650" ph="..." />
+            <marker date="1569016377000" expanded="true" signature="1332:1626" ph="..." />
+            <marker date="1569016377000" expanded="true" signature="1666:1893" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

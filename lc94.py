@@ -27,6 +27,7 @@ class Tree:
                     cur.right = TreeNode(a_list[i+2])
                     queue.append(cur.right)
             i = i + 2
+
 class Solution:
     def inorderTraversal(self, root):
         res = []

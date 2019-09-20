@@ -1,4 +1,4 @@
-public class Solution {
+public class unionFind {
     int row, col;
     public void solve(char[][] board) {
         if (board == null || board.length == 0) return;

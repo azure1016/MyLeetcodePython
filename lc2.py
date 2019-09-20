@@ -48,8 +48,43 @@ def deserialize(node):
         node = node.next
     return res
 
-l1n = parse(l1)
-l2n = parse(l2)
+# l1n = parse(l1)
+# l2n = parse(l2)
+#
+# l3n = so.addTwoNumbers(l1n, l2n)
+# print(deserialize(l3n))
 
-l3n = so.addTwoNumbers(l1n, l2n)
-print(deserialize(l3n))
+
+def word_count_engine(document):
+    freq = {}
+    punc = ["'", "!", '?', ".", ","]  # assume
+    arr_no_punc = [c for c in document if c not in punc]  # punctuation cleaned
+    # print(arr_no_punc)
+    arrWords = document.strip()  # strip all the spaces
+    print(type(arrWords))
+    arr_lower = [word.lower() for word in arrWords]
+    # print(arr_lower)
+    for idx, word in enumerate(arr_lower):  # enumerate: return the index and its value
+        if word not in freq.keys():
+            freq[word] = [1, idx]  # a tuple is immutable
+        else:  # word is already in the hashmap, or dictionary in Py
+            freq[word][0] += 1
+
+    import Queue  # py2, Queue, py
+    q = Queue.PriorityQueue()
+    n = len(arrWords)
+    for key, value in freq.items():
+        frequency, index = value[0], value[1]
+        q.put((n - frequency, index, key))  # a tuple
+    res = []
+    while q.qsize() != 0:
+        frequency, index, key = q.get()  # it gets the top element, default a min heap
+        res.append([key, n - frequency])
+
+    return res
+
+
+test = "Practice makes perfect. you'll only get Perfect by practice. just practice!"
+res = word_count_engine(test)
+print(res)
+

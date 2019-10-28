@@ -2,61 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54903d6d-b146-4989-acab-2923e500ee99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/divide_spoils_fairly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_html2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_to_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc1001_illuminate_cells.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc160 intersection between linked lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc208implement_trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc212word_search2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc222_count_complete_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc25 reverse k-grouped linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc307.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc315.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc328_odd_even_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc33_search_in_rotated_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc37_sudoku_solver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc393.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc438.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc51_n_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc69_sqrt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc70.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc724find_pivot_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc76.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc79word_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc82 duplicates in sorted list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc877 Stone Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc904_Fruit_into_baskets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc92_reverse_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc973_K_closest_points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc975odd_even_jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lc_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimum_pipe_cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pramp/absolute_value_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pramp/time_planner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/realationship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unfinished_lc300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lc480_median_sliding_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tripadvisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/flip_traffic_lights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wish/lc381get_random_duplicates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaImpl/unionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/unionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc226.py" beforeDir="false" afterPath="$PROJECT_DIR$/unfinished_lc226.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc94.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaImpl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaImpl/LCJava.code-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/LCJava.code-workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaImpl/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class Combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/wish/largest_combination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaImpl/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_html2.py" beforeDir="false" afterPath="$PROJECT_DIR$/wish/json_html2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_to_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/wish/json_to_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realationship.py" beforeDir="false" afterPath="$PROJECT_DIR$/wish/realationship.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +29,7 @@
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc31.coverage" NAME="lc31 Coverage Results" MODIFIED="1560907568668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc2.coverage" NAME="lc2 Coverage Results" MODIFIED="1566259677035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc208implement_trie.coverage" NAME="lc208implement_trie Coverage Results" MODIFIED="1568778959281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$minimum_domin__rotations.coverage" NAME="minimum_domin_ rotations Coverage Results" MODIFIED="1569184727344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc315.coverage" NAME="lc315 Coverage Results" MODIFIED="1560720841026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc10.coverage" NAME="lc10 Coverage Results" MODIFIED="1564859377620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$max_distance.coverage" NAME="max_distance Coverage Results" MODIFIED="1568817677738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,6 +37,7 @@
     <SUITE FILE_PATH="coverage/MyLeetcodePython$sort_k_messed_array.coverage" NAME="sort_k_messed_array Coverage Results" MODIFIED="1558668518937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc46.coverage" NAME="lc46 Coverage Results" MODIFIED="1561826642617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$tste.coverage" NAME="tste Coverage Results" MODIFIED="1550365277229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$go_game.coverage" NAME="go_game Coverage Results" MODIFIED="1569855523885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google_OA/Google_po" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc40.coverage" NAME="lc40 Coverage Results" MODIFIED="1561949379142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$absolute_value_sort.coverage" NAME="absolute_value_sort Coverage Results" MODIFIED="1566764985689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc328_odd_even_linked_list.coverage" NAME="lc328_odd_even_linked_list Coverage Results" MODIFIED="1565732523669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -100,15 +62,19 @@
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc5.coverage" NAME="lc5 Coverage Results" MODIFIED="1562987236469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$at_1816.coverage" NAME="at_1816 Coverage Results" MODIFIED="1560343668942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/msci641/text_analysis" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc222_count_complete_tree.coverage" NAME="lc222_count_complete_tree Coverage Results" MODIFIED="1566705667383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$flip_traffic_lights.coverage" NAME="flip_traffic_lights Coverage Results" MODIFIED="1569028663520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wish" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc975odd_even_jump.coverage" NAME="lc975odd_even_jump Coverage Results" MODIFIED="1568603156895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc200.coverage" NAME="lc200 Coverage Results" MODIFIED="1551060347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$k_closest_points.coverage" NAME="k_closest_points Coverage Results" MODIFIED="1569271111793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc307.coverage" NAME="lc307 Coverage Results" MODIFIED="1560818629142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$divide_spoils_fairly.coverage" NAME="divide_spoils_fairly Coverage Results" MODIFIED="1568400153103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$Unittests_in_json_html2_py.coverage" NAME="Unittests in json_html2.py Coverage Results" MODIFIED="1568953440343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc25_reverse_k_grouped_linkedlist.coverage" NAME="lc25 reverse k-grouped linkedlist Coverage Results" MODIFIED="1565727424033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc480_median_sliding_window.coverage" NAME="lc480_median_sliding_window Coverage Results" MODIFIED="1569101118132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc7.coverage" NAME="lc7 Coverage Results" MODIFIED="1564112914765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc4.coverage" NAME="lc4 Coverage Results" MODIFIED="1563588453887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc11.coverage" NAME="lc11 Coverage Results" MODIFIED="1560445517829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$largest_cake_area.coverage" NAME="largest_cake_area Coverage Results" MODIFIED="1569280356766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc51_n_queens.coverage" NAME="lc51_n_queens Coverage Results" MODIFIED="1568138471305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc1001_illuminate_cells.coverage" NAME="lc1001_illuminate_cells Coverage Results" MODIFIED="1568140708517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc724find_pivot_index.coverage" NAME="lc724find_pivot_index Coverage Results" MODIFIED="1567742567540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -120,12 +86,17 @@
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc144.coverage" NAME="lc144 Coverage Results" MODIFIED="1563588655886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$two_sum_O_of_n.coverage" NAME="two_sum_O_of_n Coverage Results" MODIFIED="1558827903543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc79word_search.coverage" NAME="lc79word_search Coverage Results" MODIFIED="1568417615711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$lc381get_random_duplicates.coverage" NAME="lc381get_random_duplicates Coverage Results" MODIFIED="1569097975007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wish" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc18.coverage" NAME="lc18 Coverage Results" MODIFIED="1551060573157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc76.coverage" NAME="lc76 Coverage Results" MODIFIED="1563806187337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc3.coverage" NAME="lc3 Coverage Results" MODIFIED="1563408697784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$Google.coverage" NAME="Google Coverage Results" MODIFIED="1569123136607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc94.coverage" NAME="lc94 Coverage Results" MODIFIED="1557287966159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc877_Stone_Game.coverage" NAME="lc877 Stone Game Coverage Results" MODIFIED="1565236007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc149.coverage" NAME="lc149 Coverage Results" MODIFIED="1560539194019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$largest_subarray_length_K.coverage" NAME="largest_subarray_length_K Coverage Results" MODIFIED="1569124167206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$tripadvisor.coverage" NAME="tripadvisor Coverage Results" MODIFIED="1570815607219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLeetcodePython$oddEvenJump.coverage" NAME="oddEvenJump Coverage Results" MODIFIED="1569338495191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc47.coverage" NAME="lc47 Coverage Results" MODIFIED="1561828394149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$shortest_word_edit_path.coverage" NAME="shortest_word_edit_path Coverage Results" MODIFIED="1558382154344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pramp" />
     <SUITE FILE_PATH="coverage/MyLeetcodePython$lc82_duplicates_in_sorted_list.coverage" NAME="lc82 duplicates in sorted list Coverage Results" MODIFIED="1565379537804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -134,12 +105,12 @@
     <session id="1075613623">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="8" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="2" />
@@ -151,16 +122,18 @@
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="1" />
           <entry key="md" value="2" />
           <entry key="neg" value="1" />
-          <entry key="py" value="160" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="181" />
           <entry key="test_list" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -168,23 +141,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="160" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="82" />
+          <entry key="dummy" value="108" />
           <entry key="json_html2" value="1" />
           <entry key="md" value="1274" />
-          <entry key="py" value="37915" />
+          <entry key="py" value="52157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="1274" />
-          <entry key="PLAIN_TEXT" value="82" />
-          <entry key="Python" value="37916" />
+          <entry key="PLAIN_TEXT" value="108" />
+          <entry key="Python" value="52158" />
         </counts>
       </usages-collector>
     </session>
@@ -195,54 +169,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/json_to_html.py">
+        <entry file="file://$PROJECT_DIR$/Google_OA/Google_po/go_game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="442">
+              <caret line="31" column="97" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1568950199000" expanded="true" signature="1399:1479" ph="..." />
-                <marker date="1568950199000" expanded="true" signature="1506:2499" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/json_html2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="51" column="14" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="14" />
-              <folding>
-                <marker date="1568986080000" expanded="true" signature="0:1" ph="..." />
-                <marker date="1568986080000" expanded="true" signature="19:24" ph="..." />
-                <marker date="1568986080000" expanded="true" signature="149:154" ph="..." />
+                <marker date="1569859189000" expanded="true" signature="2348:2349" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/realationship.py">
+        <entry file="file://$PROJECT_DIR$/tripadvisor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="-270">
+              <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
               <folding>
-                <marker date="1569016377000" expanded="true" signature="645:650" ph="..." />
-                <marker date="1569016377000" expanded="true" signature="1332:1626" ph="..." />
-                <marker date="1569016377000" expanded="true" signature="1666:1893" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class Combination.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#1935#1944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -263,22 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lc307.py" />
-        <option value="$PROJECT_DIR$/lc31.py" />
-        <option value="$PROJECT_DIR$/lc206.py" />
-        <option value="$PROJECT_DIR$/lc46.py" />
-        <option value="$PROJECT_DIR$/lc47.py" />
-        <option value="$PROJECT_DIR$/lc40.py" />
-        <option value="$PROJECT_DIR$/lc300.py" />
-        <option value="$PROJECT_DIR$/lc70.md" />
-        <option value="$PROJECT_DIR$/lc393.py" />
-        <option value="$PROJECT_DIR$/lc5.py" />
-        <option value="$PROJECT_DIR$/lc3.py" />
-        <option value="$PROJECT_DIR$/lc4.py" />
-        <option value="$PROJECT_DIR$/lc144.py" />
-        <option value="$PROJECT_DIR$/lc76.py" />
-        <option value="$PROJECT_DIR$/lc438.py" />
-        <option value="$PROJECT_DIR$/lc7.py" />
         <option value="$PROJECT_DIR$/lc21.py" />
         <option value="$PROJECT_DIR$/lc10.py" />
         <option value="$PROJECT_DIR$/lc877 Stone Game.py" />
@@ -314,6 +242,22 @@
         <option value="$PROJECT_DIR$/json_to_html.py" />
         <option value="$PROJECT_DIR$/json_html2.py" />
         <option value="$PROJECT_DIR$/realationship.py" />
+        <option value="$PROJECT_DIR$/wish/flip_traffic_lights.py" />
+        <option value="$PROJECT_DIR$/wish/lc381get_random_duplicates.py" />
+        <option value="$PROJECT_DIR$/lc480_median_sliding_window.py" />
+        <option value="$PROJECT_DIR$/Google.py" />
+        <option value="$PROJECT_DIR$/Google/largest_subarray_length_K.py" />
+        <option value="$PROJECT_DIR$/wish/realationship.py" />
+        <option value="$PROJECT_DIR$/Google/water_plants.py" />
+        <option value="$PROJECT_DIR$/Google/minimum_domin_ rotations.py" />
+        <option value="$PROJECT_DIR$/Google/time_to_type_a_string_rowkeyboard.py" />
+        <option value="$PROJECT_DIR$/Google/maximum_level_sum.py" />
+        <option value="$PROJECT_DIR$/Google/maximum_chairs.py" />
+        <option value="$PROJECT_DIR$/Google/k_closest_points.py" />
+        <option value="$PROJECT_DIR$/Google/largest_cake_area.py" />
+        <option value="$PROJECT_DIR$/Google/oddEvenJump.py" />
+        <option value="$PROJECT_DIR$/Google_OA/Google_po/go_game.py" />
+        <option value="$PROJECT_DIR$/tripadvisor.py" />
       </list>
     </option>
   </component>
@@ -370,6 +314,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Google" />
+      <recent name="$PROJECT_DIR$/wish" />
+      <recent name="$PROJECT_DIR$/JavaImpl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pramp" />
     </key>
@@ -386,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.realationship">
+  <component name="RunManager" selected="Python.tripadvisor">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -453,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class Combination" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="go_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -461,12 +410,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google_OA/Google_po" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class Combination.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google_OA/Google_po/go_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,7 +424,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_html2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="k_closest_points" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,12 +432,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_html2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google/k_closest_points.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -497,7 +446,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lc212word_search2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largest_cake_area" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -505,12 +454,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc212word_search2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google/largest_cake_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,17 +512,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="realationship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oddEvenJump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realationship.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google/oddEvenJump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -582,7 +534,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in json_html2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="tripadvisor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLeetcodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -592,9 +544,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/json_html2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tripadvisor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
@@ -602,19 +558,19 @@
       <item itemvalue="Python.msci641" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.matrix_spiral_copy" />
-      <item itemvalue="Python.class Combination" />
-      <item itemvalue="Python.lc212word_search2" />
-      <item itemvalue="Python tests.Unittests in json_html2.py" />
-      <item itemvalue="Python.json_html2" />
-      <item itemvalue="Python.realationship" />
+      <item itemvalue="Python.k_closest_points" />
+      <item itemvalue="Python.largest_cake_area" />
+      <item itemvalue="Python.oddEvenJump" />
+      <item itemvalue="Python.go_game" />
+      <item itemvalue="Python.tripadvisor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.realationship" />
-        <item itemvalue="Python.json_html2" />
-        <item itemvalue="Python tests.Unittests in json_html2.py" />
-        <item itemvalue="Python.lc212word_search2" />
-        <item itemvalue="Python.class Combination" />
+        <item itemvalue="Python.tripadvisor" />
+        <item itemvalue="Python.go_game" />
+        <item itemvalue="Python.oddEvenJump" />
+        <item itemvalue="Python.largest_cake_area" />
+        <item itemvalue="Python.k_closest_points" />
       </list>
     </recent_temporary>
   </component>
@@ -653,9 +609,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49522293" visible="true" weight="0.24267101" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49522293" visible="true" weight="0.262215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5047771" side_tool="true" weight="0.26465797" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -669,10 +624,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3280255" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32770744" />
       <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.28270042" />
       <window_info anchor="bottom" id="Mypy" order="13" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32961783" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32911393" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -951,128 +907,50 @@
           <line>107</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wish/flip_traffic_lights.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wish/lc381get_random_duplicates.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lc480_median_sliding_window.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Google/largest_subarray_length_K.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Google_OA/Google_po/go_game.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Google_OA/Google_po/go_game.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tripadvisor.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tripadvisor.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lc31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc94.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc144.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-736">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-          <folding>
-            <marker date="1563589032000" expanded="true" signature="178:690" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc287.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unfinished_lc300.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding>
-            <marker date="1562207233000" expanded="true" signature="48:92" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unfinished_lc226.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc206.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc200.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc169.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc167.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc149.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc145.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc112.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc328_odd_even_linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="25" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc33_search_in_rotated_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc92_reverse_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lc160 intersection between linked lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lc2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
@@ -1228,13 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lc_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lc208implement_trie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -1242,20 +1113,6 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="1102" selection-start-line="1102" selection-end-line="1102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/posixpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="354" selection-start-line="354" selection-end-line="354" />
         </state>
       </provider>
     </entry>
@@ -1285,48 +1142,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json_to_html.py">
+    <entry file="file://$PROJECT_DIR$/JavaImpl/java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="-84" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wish/json_to_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1568950199000" expanded="true" signature="1399:1479" ph="..." />
-            <marker date="1568950199000" expanded="true" signature="1506:2499" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class Combination.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json_html2.py">
+    <entry file="file://$PROJECT_DIR$/wish/json_html2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="51" column="14" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wish/realationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wish/flip_traffic_lights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
-            <marker date="1568986080000" expanded="true" signature="0:1" ph="..." />
-            <marker date="1568986080000" expanded="true" signature="19:24" ph="..." />
-            <marker date="1568986080000" expanded="true" signature="149:154" ph="..." />
+            <marker date="1569028916000" expanded="true" signature="14:19" ph="..." />
+            <marker date="1569028916000" expanded="true" signature="117:797" ph="..." />
+            <marker date="1569028916000" expanded="true" signature="826:851" ph="..." />
+            <marker date="1569028916000" expanded="true" signature="826:860" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/realationship.py">
+    <entry file="file://$PROJECT_DIR$/lc480_median_sliding_window.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="544">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/compare_strings.py" />
+    <entry file="file://$PROJECT_DIR$/Google/largest_subarray_length_K.py" />
+    <entry file="file://$PROJECT_DIR$/wish/largest_combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1424">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wish/lc381get_random_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
           <folding>
-            <marker date="1569016377000" expanded="true" signature="645:650" ph="..." />
-            <marker date="1569016377000" expanded="true" signature="1332:1626" ph="..." />
-            <marker date="1569016377000" expanded="true" signature="1666:1893" ph="..." />
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="476" selection-start-line="476" selection-end-line="476" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1102" selection-start-line="1102" selection-end-line="1102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/water_plants.py" />
+    <entry file="file://$PROJECT_DIR$/Google/minimum_domin_ rotations.py" />
+    <entry file="file://$PROJECT_DIR$/Google/time_to_type_a_string_rowkeyboard.py" />
+    <entry file="file://$PROJECT_DIR$/Google/maximum_level_sum.py" />
+    <entry file="file://$PROJECT_DIR$/Google/maximum_chairs.py" />
+    <entry file="file://$PROJECT_DIR$/Google/k_closest_points.py" />
+    <entry file="file://$PROJECT_DIR$/Google/largest_cake_area.py" />
+    <entry file="file://$PROJECT_DIR$/Google/oddEvenJump.py" />
+    <entry file="file://$PROJECT_DIR$/Google_OA/Google_po/go_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="97" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
+          <folding>
+            <marker date="1569859189000" expanded="true" signature="2348:2349" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/MyLeetcodePython/lib/python2.7/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tripadvisor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+          <folding>
+            <element signature="e#1935#1944#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -60,8 +60,8 @@ class Tree:
             if cur:
                 cur.left = TreeNode(ls[i + 1]) if ls[i + 1] else None
                 cur.right = TreeNode(ls[i + 2]) if ls[i + 2] else None
-                queue.append(cur.left)
-                queue.append(cur.right)
+                if cur.left: queue.append(cur.left)
+                if cur.right: queue.append(cur.right)
                 i += 2
         if queue and i == len(ls) - 2:
             cur = queue.pop(0)

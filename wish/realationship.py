@@ -17,16 +17,20 @@ from collections import defaultdict
 class Relationship:
     def __init__(self, list_of_relationship):
         self.relationship = defaultdict(list)
+        for name1, relation, name2 in list_of_relationship:
+            self.relationship[name1].append((relation, name2))
+        '''
         self.cord = defaultdict(defaultdict(list))
         self.dp = defaultdict(defaultdict)
         for name1, relation, name2 in list_of_relationship:
             self.relationship[name1].append((relation, name2))
             self.dp[name1][name2].append(name1 + " " + relation + " " + name2 + " ")
             self.cord[name1][name2].append(relation)
+        '''
 
 
 
-    def findRelation_dfs(self, name1, name2):
+    def findRelation(self, name1, name2):
         runner = name1
         self.result = []
         self.dfs(name1, name2, name1 + " ", set(name1))

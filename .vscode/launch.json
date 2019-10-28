@@ -1,0 +1,57 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WildMatch",
+            "request": "launch",
+            "mainClass": "WildMatch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InorderParent",
+            "request": "launch",
+            "mainClass": "InorderParent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inorder_parent",
+            "request": "launch",
+            "mainClass": "Inorder_parent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inorder_parent_911",
+            "request": "launch",
+            "mainClass": "Inorder_parent_911"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lc1008",
+            "request": "launch",
+            "mainClass": "lc1008"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bloom",
+            "request": "launch",
+            "mainClass": "Bloom"
+        },
+        {
+            "name": "Python: 当前文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
